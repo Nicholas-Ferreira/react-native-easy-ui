@@ -1,0 +1,26 @@
+{
+  "name": "easy-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicholas Ferreira",
+  "files": [
+    "src/"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "android",
+    "ios",
+    "react native",
+    "component library",
+    "ui kit",
+    "galio"
+  ],
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-native": "^0.63.3"
+  }
+}
